@@ -250,5 +250,7 @@
 		"Detective Pikachu",
 		"Gold Mega Man",
 		"Super Mario Cereal",
+
+		"Super Mario Cereal2",
 	],
 ]
