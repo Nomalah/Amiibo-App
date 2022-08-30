@@ -1,4 +1,4 @@
-[
+{
 	"Animal Crossing": [
 		"Isabelle Winter",
 		"Isabelle Summer",
@@ -14,25 +14,25 @@
 		"Kicks",
 		"Timmy & Tommy",
 		"Kapp'n",
-		"Rover",
+		"Rover"
 	],
 	"Fire Emblem": [
 		"Alm",
 		"Celica",
 		"Chrom",
-		"Tiki",
+		"Tiki"
 	],
 	"Kirby": [
 		"Kirby",
 		"Meta Knight",
 		"King Dedede",
-		"Waddle Dee",
+		"Waddle Dee"
 	],
 	"Metroid": [
 		"Samus Aran",
 		"Metroid",
 		"Samus",
-		"E.M.M.I.",
+		"E.M.M.I."
 	],
 	"Monster Hunter": [
 		"Magnamalo",
@@ -49,20 +49,20 @@
 		"Qurupeco and Dan",
 		"Ena",
 		"Razewing Ratha",
-		"Tsukino",
+		"Tsukino"
 	],
 	"Shovel Knight": [
 		"Shovel Knight",
 		"Plague Knight",
 		"Specter Knight",
 		"King Knight",
-		"Gold Shovel Knight",
+		"Gold Shovel Knight"
 	],
 	"Skylanders SuperChargers": [
 		"Hammer Slam Bowser",
 		"Turbo Charge Donkey Kong",
 		"Dark Hammer Slam Bowser",
-		"Dark Turbo Charge Donkey Kong",
+		"Dark Turbo Charge Donkey Kong"
 	],
 	"Splatoon": [
 		"Orange Inkling Girl",
@@ -83,7 +83,7 @@
 		"Octoling Octopus",
 		"Yellow Inkling Girl",
 		"Blue Octoling Boy",
-		"Smallfry",
+		"Smallfry"
 	],
 	"Super Mario": [
 		"Mario",
@@ -109,7 +109,7 @@
 		"Cat Mario",
 		"Cat Peach",
 		"Classic 8-Bit Mario",
-		"Modern 8-Bit Mario",
+		"Modern 8-Bit Mario"
 	],
 	"Super Smash Bros.": [
 		"Mario",
@@ -201,7 +201,7 @@
 		"Byleth",
 		"Min Min",
 		"Steve",
-		"Alex",
+		"Alex"
 	],
 	"Zelda": [
 		"Wolf Link",
@@ -222,14 +222,14 @@
 		"Mipha",
 		"Daruk",
 		"Revali",
-		"Urbosa",
+		"Urbosa"
 	],
 	"Yoshis Wooly World": [
 		"Green Yarn Yoshi",
 		"Pink Yarn Yoshi",
 		"Blue Yarn Yoshi",
 		"Mega Yarn Yoshi",
-		"Poochy",
+		"Poochy"
 	],
 	"Super Nintendo World": [
 		"Mario Power-Up Band",
@@ -237,7 +237,7 @@
 		"Peach Power-Up Band",
 		"Daisy Power-Up Band",
 		"Yoshi Power-Up Band",
-		"Toad Power-Up Band",
+		"Toad Power-Up Band"
 	],
 	"Miscellaneous": [
 		"Qbby",
@@ -249,6 +249,6 @@
 		"Shadow Mewtwo",
 		"Detective Pikachu",
 		"Gold Mega Man",
-		"Super Mario Cereal",
-	],
-]
+		"Super Mario Cereal"
+	]
+}
